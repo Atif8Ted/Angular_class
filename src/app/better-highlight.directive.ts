@@ -27,5 +27,6 @@ ngOnInit(){
     this.backgroundColor=this.defaultColor;
     this.color='black';
     this.disp='none';
+    //upi
   }
 } 
